@@ -26,8 +26,8 @@
                 {:id 2 :amount 200}
                 {:id 3 :amount 300}
                 {:id 4 :amount 400}
-                {:id 5 :amount 400}
-                {:id 6 :amount 400}
+                {:id 5 :amount 500}
+                {:id 6 :amount 600}
                 ]
         ;order-ch (process-orders orders)
         ;;uncomment to test process-orders-in-sequence
